@@ -1,1 +1,1 @@
-This is the testing purpose for webhooks throught in jenkins..
+This is the testing purpose for webhooks throught in jenkins server
